@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gerador Agenda//PT-BR//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Skills & GO | Agentic Engineering
+BEGIN:VEVENT
+UID:agenda-20260721-0@gerador
+DTSTAMP:20260611T140235Z
+DTSTART:20260721T220000Z
+DTEND:20260722T010000Z
+SUMMARY:Skills & GO | Agentic Engineering
+DESCRIPTION:Olá! Seja muito bem-vindo(a) à aula. \n\nÉ uma alegria ter você com a gente nesta jornada. Todas as nossas aulas acontecerão pelo Microsoft Teams e\, para participar\, basta clicar no link no horário da aula. \n\nAté logo!\n\nClique neste link e entre na aula: https://teams.microsoft.com/meet/274632296893836?p=HnQsndiOFQxWtVLPiI
+X-ALT-DESC;FMTTYPE=text/html:Olá! Seja muito bem-vindo(a) à aula. \n\nÉ uma alegria ter você com a gente nesta jornada. Todas as nossas aulas acontecerão pelo Microsoft Teams e\, para participar\, basta clicar no link no horário da aula. \n\nAté logo!<br><br><b><a href="https://teams.microsoft.com/meet/274632296893836?p=HnQsndiOFQxWtVLPiI">Clique neste link e entre na aula</a></b>
+LOCATION:Microsoft Teams — https://teams.microsoft.com/meet/274632296893836?p=HnQsndiOFQxWtVLPiI
+END:VEVENT
+BEGIN:VEVENT
+UID:agenda-20260723-1@gerador
+DTSTAMP:20260611T140235Z
+DTSTART:20260723T220000Z
+DTEND:20260724T010000Z
+SUMMARY:Skills & GO | Agentic Engineering
+DESCRIPTION:Olá! Seja muito bem-vindo(a) à aula. \n\nÉ uma alegria ter você com a gente nesta jornada. Todas as nossas aulas acontecerão pelo Microsoft Teams e\, para participar\, basta clicar no link no horário da aula. \n\nAté logo!\n\nClique neste link e entre na aula: https://teams.microsoft.com/meet/274632296893836?p=HnQsndiOFQxWtVLPiI
+X-ALT-DESC;FMTTYPE=text/html:Olá! Seja muito bem-vindo(a) à aula. \n\nÉ uma alegria ter você com a gente nesta jornada. Todas as nossas aulas acontecerão pelo Microsoft Teams e\, para participar\, basta clicar no link no horário da aula. \n\nAté logo!<br><br><b><a href="https://teams.microsoft.com/meet/274632296893836?p=HnQsndiOFQxWtVLPiI">Clique neste link e entre na aula</a></b>
+LOCATION:Microsoft Teams — https://teams.microsoft.com/meet/274632296893836?p=HnQsndiOFQxWtVLPiI
+END:VEVENT
+BEGIN:VEVENT
+UID:agenda-20260728-2@gerador
+DTSTAMP:20260611T140235Z
+DTSTART:20260728T220000Z
+DTEND:20260729T010000Z
+SUMMARY:Skills & GO | Agentic Engineering
+DESCRIPTION:Olá! Seja muito bem-vindo(a) à aula. \n\nÉ uma alegria ter você com a gente nesta jornada. Todas as nossas aulas acontecerão pelo Microsoft Teams e\, para participar\, basta clicar no link no horário da aula. \n\nAté logo!\n\nClique neste link e entre na aula: https://teams.microsoft.com/meet/274632296893836?p=HnQsndiOFQxWtVLPiI
+X-ALT-DESC;FMTTYPE=text/html:Olá! Seja muito bem-vindo(a) à aula. \n\nÉ uma alegria ter você com a gente nesta jornada. Todas as nossas aulas acontecerão pelo Microsoft Teams e\, para participar\, basta clicar no link no horário da aula. \n\nAté logo!<br><br><b><a href="https://teams.microsoft.com/meet/274632296893836?p=HnQsndiOFQxWtVLPiI">Clique neste link e entre na aula</a></b>
+LOCATION:Microsoft Teams — https://teams.microsoft.com/meet/274632296893836?p=HnQsndiOFQxWtVLPiI
+END:VEVENT
+BEGIN:VEVENT
+UID:agenda-20260730-3@gerador
+DTSTAMP:20260611T140235Z
+DTSTART:20260730T220000Z
+DTEND:20260731T010000Z
+SUMMARY:Skills & GO | Agentic Engineering
+DESCRIPTION:Olá! Seja muito bem-vindo(a) à aula. \n\nÉ uma alegria ter você com a gente nesta jornada. Todas as nossas aulas acontecerão pelo Microsoft Teams e\, para participar\, basta clicar no link no horário da aula. \n\nAté logo!\n\nClique neste link e entre na aula: https://teams.microsoft.com/meet/274632296893836?p=HnQsndiOFQxWtVLPiI
+X-ALT-DESC;FMTTYPE=text/html:Olá! Seja muito bem-vindo(a) à aula. \n\nÉ uma alegria ter você com a gente nesta jornada. Todas as nossas aulas acontecerão pelo Microsoft Teams e\, para participar\, basta clicar no link no horário da aula. \n\nAté logo!<br><br><b><a href="https://teams.microsoft.com/meet/274632296893836?p=HnQsndiOFQxWtVLPiI">Clique neste link e entre na aula</a></b>
+LOCATION:Microsoft Teams — https://teams.microsoft.com/meet/274632296893836?p=HnQsndiOFQxWtVLPiI
+END:VEVENT
+END:VCALENDAR
